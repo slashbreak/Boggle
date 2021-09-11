@@ -1,0 +1,14 @@
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\bin\Debug\BoggleWindows.exe.config
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\bin\Debug\BoggleWindows.exe
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\bin\Debug\BoggleWindows.pdb
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\obj\Debug\BoggleWindows.Form1.resources
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\obj\Debug\BoggleWindows.Properties.Resources.resources
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\obj\Debug\BoggleWindows.csproj.GenerateResource.Cache
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\obj\Debug\BoggleWindows.exe
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\obj\Debug\BoggleWindows.pdb
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\bin\Debug\enable1.txt
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\obj\Debug\BoggleWindows.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\bin\Debug\BoggleWindows.exe.manifest
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\bin\Debug\BoggleWindows.application
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\obj\Debug\BoggleWindows.exe.manifest
+c:\users\luke\documents\visual studio 2015\Projects\BoggleWindows\BoggleWindows\obj\Debug\BoggleWindows.application
